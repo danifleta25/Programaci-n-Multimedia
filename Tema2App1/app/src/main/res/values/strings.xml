@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tema2App1</string>
+    <string name="Titulo">Bienvenidos a mi APP</string>
+    <string name="BotonSalir">SALIR</string>
+    <string name="salir">Salir</string>
+    <string name="Boton">salir</string>
 </resources>
