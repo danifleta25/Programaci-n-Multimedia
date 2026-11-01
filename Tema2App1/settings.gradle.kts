@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tema2App1"
 include(":app")
+include(":app:saludapp")
