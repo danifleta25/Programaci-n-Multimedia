@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiraDadosApp</string>
+    <string name="texto_boton">Lanzar el dado</string>
+    <string name="descripcion_dado">Imagen de una cara del dado</string>
+</resources>

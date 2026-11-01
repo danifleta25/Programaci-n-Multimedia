@@ -1,3 +1,5 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
 pluginManagement {
     repositories {
         google {
@@ -25,3 +27,5 @@ dependencyResolutionManagement {
 rootProject.name = "Tema2App1"
 include(":app")
 include(":app:saludapp")
+include(":tiradadosapp")
+
