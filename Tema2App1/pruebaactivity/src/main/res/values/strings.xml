@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaActivity</string>
+    <string name="tView">Texto</string>
+    <string name="eText">Escribe</string>
+</resources>

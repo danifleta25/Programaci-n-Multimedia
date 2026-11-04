@@ -1,5 +1,14 @@
 import org.gradle.api.initialization.resolve.RepositoriesMode
 
+include(":pruebaintent")
+
+
+include(":contadorciclodevida")
+
+
+include(":pruebaactivity")
+
+
 pluginManagement {
     repositories {
         google {
