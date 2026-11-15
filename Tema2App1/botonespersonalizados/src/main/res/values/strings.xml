@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BotonesPersonalizados</string>
+    <string name="boton_rojo">Botón rojo</string>
+    <string name="pulsado">Pulsado</string>
+    <string name="hint_entrada">Introduce un número</string>
+    <string name="hint_salida">Resultado</string>
+    <string name="cero">0</string>
+    <string name="error_vacio">Introduce un número</string>
+    <string name="error_formato">El valor no es un número válido</string>
+</resources>

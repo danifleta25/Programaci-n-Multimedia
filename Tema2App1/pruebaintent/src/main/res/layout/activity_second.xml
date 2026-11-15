@@ -7,4 +7,24 @@
     android:layout_height="match_parent"
     tools:context=".SecondActivity">
 
+    <TextView
+        android:id="@+id/receivedTextView"
+        android:layout_width="116dp"
+        android:layout_height="72dp"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tw2"
+        android:layout_width="234dp"
+        android:layout_height="82dp"
+        android:text="Mensaje recibido"
+        app:layout_constraintBottom_toTopOf="@+id/receivedTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text = "Este es el mensaje" />
 </androidx.constraintlayout.widget.ConstraintLayout>

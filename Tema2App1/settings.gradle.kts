@@ -1,5 +1,17 @@
 import org.gradle.api.initialization.resolve.RepositoriesMode
 
+include(":botonespersonalizados")
+
+
+include(":layoutsconpadding")
+
+
+include(":layouts")
+
+
+include(":pendingintentandalarmmanager")
+
+
 include(":pruebaintent")
 
 

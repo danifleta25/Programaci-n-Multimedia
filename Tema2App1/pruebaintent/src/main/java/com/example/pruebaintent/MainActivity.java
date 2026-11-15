@@ -25,10 +25,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Inicializar vistas desde el layout
-        editText = editText.findViewById(R.id.editText);
-        sendButton = sendButton.findViewById(R.id.sendButton);
-        webButton = webButton.findViewById(R.id.webButton);
-        shareButton = shareButton.findViewById(R.id.shareButton);
+        editText = findViewById(R.id.editText);
+        sendButton = findViewById(R.id.sendButton);
+        webButton = findViewById(R.id.webButton);
+        shareButton = findViewById(R.id.shareButton);
 
         // Configurar listeners para cada boton
 

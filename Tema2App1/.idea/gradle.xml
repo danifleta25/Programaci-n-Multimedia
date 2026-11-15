@@ -11,7 +11,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/saludapp" />
+            <option value="$PROJECT_DIR$/botonespersonalizados" />
             <option value="$PROJECT_DIR$/contadorciclodevida" />
+            <option value="$PROJECT_DIR$/layouts" />
+            <option value="$PROJECT_DIR$/layoutsconpadding" />
+            <option value="$PROJECT_DIR$/pendingintentandalarmmanager" />
             <option value="$PROJECT_DIR$/pruebaactivity" />
             <option value="$PROJECT_DIR$/pruebaintent" />
             <option value="$PROJECT_DIR$/tiradadosapp" />
