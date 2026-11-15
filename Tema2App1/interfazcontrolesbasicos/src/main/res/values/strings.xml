@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InterfazControlesBasicos</string>
+    <string name="texto_1">Texto construido desde el XML\nTamaño 20dp, Bold y color Red</string>
+</resources>

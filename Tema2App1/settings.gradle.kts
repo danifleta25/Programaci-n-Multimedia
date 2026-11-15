@@ -1,5 +1,23 @@
 import org.gradle.api.initialization.resolve.RepositoriesMode
 
+include(":gridview")
+
+
+include(":listview")
+
+
+include(":radiobuttons")
+
+
+include(":ejemploteclados")
+
+
+include(":botones")
+
+
+include(":interfazcontrolesbasicos")
+
+
 include(":botonespersonalizados")
 
 
