@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/paises.xml -->
+<resources>
+    <string-array name="paises">
+        <item>Alemania</item>
+        <item>Austria</item>
+        <item>Bélgica</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Grecia</item>
+        <item>Irlanda</item>
+        <item>Italia</item>
+        <item>Países Bajos</item>
+        <item>Portugal</item>
+    </string-array>
+</resources>

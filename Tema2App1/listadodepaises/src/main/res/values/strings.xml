@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListadoDePaises</string>
+    <string name="sin_seleccion">Pulsa un país</string>
+</resources>

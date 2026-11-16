@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/agendacontactoslistview" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/saludapp" />
             <option value="$PROJECT_DIR$/botones" />
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/interfazcontrolesbasicos" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/layoutsconpadding" />
+            <option value="$PROJECT_DIR$/listadodepaises" />
             <option value="$PROJECT_DIR$/listview" />
             <option value="$PROJECT_DIR$/pendingintentandalarmmanager" />
             <option value="$PROJECT_DIR$/pruebaactivity" />
